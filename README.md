@@ -80,10 +80,10 @@ you can run any of the following cells to get the output (plot) for the project 
 
 
 
-#### Resources connected to DMP
+#### Resources connected to a DMP
 
 ##### What does it do?
-
+This notebook displays in a human-friendly way all of the connections embedded in a maDMP. By the end of this notebook, you will be able to succinctly display the essential components of the maDMP vision using persistent identifiers (PIDs): Open Researcher and Contributor IDs (ORCIDs), funders IDs, organizations Org IDs, and Dataset IDs (DOIs).
 
 ##### How can you re-use it?
 

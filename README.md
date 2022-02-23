@@ -1,3 +1,4 @@
+![FAIRsFAIRLogo_Tw](https://user-images.githubusercontent.com/8457675/155348619-05c89247-057a-4607-9a3e-7e9f548b04b3.png) 
 # Guide to the FAIRsFAIR Jupyter Notebooks
 
 FAIRsFAIR “Fostering FAIR Data Practices In Europe” has received funding from the European Union’s Horizon 2020 project call H2020-INFRAEOSC-2018-2020 Grant agreement 831558.

@@ -5,24 +5,20 @@ FAIRsFAIR “Fostering FAIR Data Practices In Europe” has received funding fro
 
 ### Acknowledgements
 
-This work is based on a notebook created as part of the FREYA project: 
-
+This work is based on a notebook created as part of the FREYA project:  
 Petryszak, R., Fenner, M., Lambert, S., Llinares, M. B., & Madden, F. (2020). FREYA PID Graph - Grant Outputs (1.1.1) [Computer software]. DataCite. https://doi.org/10.14454/QAYM-KT26
 
-The second notebook is re-using a resource
+The second notebook is re-using a resource created by DataCite to demonstrate the impact of machine-actionble data management plans (DMPs) as part of the FAIR Island project:  
+Garza, K. (2020). maDMPs Machine Actionable Data Management Plans (maDMPs) demonstration. (1.0.0) [Computer software]. DataCite. https://doi.org/10.14454/W67K-5373
 
 ### How does this relate to FAIRsFAIR work
 This work is to support T3.3 of FAIRsFAIR and specifically supports the following themes therein:
 * Supporting Data Management Planning
 * Defining Data Interoperability Frameworks
 
-The vision for this exercise was 
-> ADD MORE
-
-
 ## What FAIRsFAIR has done
 
-1. Re-using the FREYA notebooks that addressed the use cases we are interested in and validating them.
+1. Re-using the notebooks that addressed the use cases we are interested in and validating them.
 
 	* Running the notebook on grant outputs in Binder works fine with a different grant number, however the interactive plot of co-authorship relationships across all outputs cannot be created as the library used is not freely available any longer
 
@@ -87,6 +83,7 @@ you can run any of the following cells to get the output (plot) for the project 
 #### Resources connected to DMP
 
 ##### What does it do?
+
 
 ##### How can you re-use it?
 

@@ -104,6 +104,12 @@ This notebook displays in a human-friendly way all of the connections embedded i
 	* Finish by typing `exit` and closing the terminal tab
 
 4. Click on FAIRsFAIR-resources-connected-to-DMP.ipynb to launch it
+5. Run the notebook
+![Launch_DMP_notebook](https://user-images.githubusercontent.com/8457675/155540780-46d84e9a-bbed-48d9-8e0c-060a3470c200.png)
+
+6. Once the first cell has been run successfully, you will have the option to enter the DOI of a DMP of your choice and run the next cell to get a graph of outputs, people, funders etc. connected to it (if available)
+![DMP_notebook](https://user-images.githubusercontent.com/8457675/155541393-e973b18d-06d0-4571-a7fc-f8792453dadc.png)
+
 
 ### Disclaimer
 We do not have any resource to keep these notebooks running, they are provided as is and might lead to errors when any of the dependencies change.

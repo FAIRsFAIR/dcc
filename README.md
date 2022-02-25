@@ -3,6 +3,8 @@
 
 FAIRsFAIR “Fostering FAIR Data Practices In Europe” has received funding from the European Union’s Horizon 2020 project call H2020-INFRAEOSC-2018-2020 Grant agreement 831558.
 
+[![DOI](https://zenodo.org/badge/462774022.svg)](https://zenodo.org/badge/latestdoi/462774022)
+
 ### Acknowledgements
 
 This work is based on a notebook created as part of the FREYA project:  

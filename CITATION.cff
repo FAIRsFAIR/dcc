@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you reference or use these notebooks, please cite it as below."
+authors:
+- family-names: "Crone"
+  given-names: "James"
+- family-names: "Herterich"
+  given-names: "Patricia"
+  orcid: "https://orcid.org/0000-0002-4542-9906"
+- family-names: "FAIRsFAIR project"
+  given-names: "."
+title: "FAIRsFAIR/dcc: Jupyter Notebooks exploring the PID graph - Initial release"
+version: 1.0.0
+doi: 10.5281/zenodo.6277811
+license: "MIT"
+date-released: 2022-02-25
+url: "https://github.com/FAIRsFAIR/dcc"

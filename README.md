@@ -40,7 +40,7 @@ While you can interact with a binderized notebook and change some data to run th
 
 
 ### How to use our provided notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geojamesc/dcc/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FAIRsFAIR/dcc/HEAD)
 
 #### Funding grant outputs notebook
 
@@ -59,8 +59,7 @@ Goal: By the end of this notebook you should be able to:
 
 ##### How can you re-use it?
 
-1. Launch the binder by clicking on the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geojamesc/dcc/HEAD)
-
+1. Launch the binder by clicking on the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FAIRsFAIR/dcc/HEAD)
 2. Switch to the "classic" notebook view by changing "lab" at end of the URL to "tree"
 3. Click on FAIRsFAIR-funding-grant-outputs.ipynb to launch it
 4. Run the notebook
@@ -87,7 +86,7 @@ This notebook displays in a human-friendly way all of the connections embedded i
 
 ##### How can you re-use it?
 
-1. Launch the binder by clicking on the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geojamesc/dcc/HEAD)
+1. Launch the binder by clicking on the badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FAIRsFAIR/dcc/HEAD)
 
 2. Switch to the "classic" notebook view by changing "lab" at end of the URL to "tree"
 3. This notebook uses a library called vega which requires some additonal configuration before it can be ran.
